@@ -109,6 +109,8 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+activate.bat
+deactivate.bat
 
 # Spyder project settings
 .spyderproject
